@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1774237255 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\torneorelampago\main.cpp
+	<iostream>
+	"menus.h"
+
+1774238768 d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\torneorelampago\menus.h
+
+1774238724 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\torneorelampago\menus.cpp
+	<iostream>
+	<cstdlib>
+	"menus.h"
+	"varios.h"
+	"ingresoDatos.h"
+
+1774234032 d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\torneorelampago\varios.h
+
+1774235968 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\torneorelampago\varios.cpp
+	<iostream>
+
+1774234060 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\torneorelampago\vectores.cpp
+	<iostream>
+	"vectores.h"
+
+1774233845 d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\torneorelampago\vectores.h
+
+1774236975 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\torneorelampago\ingresodatos.cpp
+	<iostream>
+	"ingresoDatos.h"
+
+1774236812 d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\torneorelampago\ingresodatos.h
+

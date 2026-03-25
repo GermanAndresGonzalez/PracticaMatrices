@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774224781 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\repetidos\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1774224755 d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\repetidos\funciones.h
+
+1774224746 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\repetidos\main.cpp
+	<iostream>
+	"funciones.h"
+

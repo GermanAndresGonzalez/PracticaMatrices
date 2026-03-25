@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1774219962 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\notasparciales\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1774220001 d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\notasparciales\funciones.h
+	<string>
+
+1774220365 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\notasparciales\main.cpp
+	<iostream>
+	<string>
+	"funciones.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1774138253 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\funciones01\funciones01\funciones01.cpp
+	<iostream>
+	<ctime>
+	<chrono>
+	"funciones01.h"
+
+1774138242 d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\funciones01\funciones01\funciones01.h
+
+1774138319 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\funciones01\funciones01\main.cpp
+	<iostream>
+	"funciones01.h"
+
+1774109961 d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\funciones01\funciones01\funciones01.cpp
+	<iostream>
+	"funciones01.h"
+

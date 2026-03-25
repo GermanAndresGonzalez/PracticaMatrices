@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1774478136 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\gastos\funciones_vectores.cpp
+	<iostream>
+	<climits>
+	<iomanip>
+	"varios.h"
+	"funciones_vectores.h"
+
+1774478116 d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\gastos\funciones_vectores.h
+
+1774480854 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\gastos\main.cpp
+	<iostream>
+	<string>
+	"varios.h"
+	"funciones_vectores.h"
+
+1774235968 source:d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\gastos\varios.cpp
+	<iostream>
+
+1774234032 d:\utn-tecnicatura\2026\pr2\practicaspersonales\funciones\gastos\varios.h
+
